@@ -10,7 +10,7 @@
         android:id="@+id/txt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="L O G I N"
+        android:text="LOGIN"
         android:textSize="40sp"
         android:textColor="#ffff"
         android:layout_marginStart="130dp"
